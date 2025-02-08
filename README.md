@@ -6,4 +6,4 @@ I made this README because I wanted to see which programming languages I use the
 
 Behold:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwporter&v=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwporter&v=2&cache_seconds=0)
