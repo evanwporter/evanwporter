@@ -1,5 +1,3 @@
-Nothing too see here except for:
-
 <a href="https://www.star-history.com/?repos=evanwporter%2Fevanwporter&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=evanwporter/evanwporter&type=date&theme=dark&legend=top-left" />
